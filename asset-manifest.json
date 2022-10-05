@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.455e2ce5.css",
+    "main.js": "/react-portfolio/static/js/main.dce45019.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/screenshot-fooder.jpeg": "/react-portfolio/static/media/screenshot-fooder.1060be8dc9090de4eb76.jpeg",
+    "static/media/screenshot-fooder.png": "/react-portfolio/static/media/screenshot-fooder.1060be8dc9090de4eb76.png",
+    "static/media/malick.bf2c67ec.jpg": "/react-portfolio/static/media/malick.bf2c67ec.0cb422c583963bcccbe0.jpg",
+    "static/media/screenshot-bragging-rights.png": "/react-portfolio/static/media/screenshot-bragging-rights.cb2b5d123bbc99b5c9ca.png",
+    "static/media/Screenshot-1.png": "/react-portfolio/static/media/Screenshot-1.ed4b15b96197a76b1503.png",
+    "static/media/Screenshot-2.png": "/react-portfolio/static/media/Screenshot-2.cabefe8407b27d114ff8.png",
+    "static/media/Resume - Malick Ba.pdf": "/react-portfolio/static/media/Resume - Malick Ba.fcab7b691392ce1a6e0f.pdf",
+    "static/media/Linkedin-logo.png": "/react-portfolio/static/media/Linkedin-logo.f5925ee4622ee54c9940.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.455e2ce5.css.map": "/react-portfolio/static/css/main.455e2ce5.css.map",
+    "main.dce45019.js.map": "/react-portfolio/static/js/main.dce45019.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.455e2ce5.css",
+    "static/js/main.dce45019.js"
+  ]
+}
