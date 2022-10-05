@@ -1,3 +1,23 @@
+# React Portfolio
+
+## Description
+Repository for my portfolio website, which includes some of my group projects and more details on my background. Website built with React.js. Please visit deployed URL for final product. 
+
+## Technologies Used
+Technologies used to create this website include: 
+- React.js
+- JavaScript
+- HTML
+- CSS
+- Bootstrap
+
+## Deployed URL 
+http://malickbax.github.io/react-portfolio
+
+## Screenshots
+![Screenshot](/src/Assets/pictures/Screenshot-1.png)
+![Screenshot](/src/Assets/pictures/Screenshot-2.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
